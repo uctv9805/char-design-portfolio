@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-color-name-prof {
+    background-color: #fff;
+
+}
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url("../images/AMdesign.jpg");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: 75%;
+    min-height: 360px;
+}
+
