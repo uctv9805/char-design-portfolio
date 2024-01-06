@@ -2,20 +2,129 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.bg-color-name-prof {
-    background-color: #fff;
-
 }
 
 header {
-    margin: 0;
+  overflow: hidden;
 }
 
 .logo {
-    background: url("../images/AMdesign.jpg");
-    background-position: left top;
-    background-repeat: no-repeat;
-    background-size: 75%;
-    min-height: 360px;
+  background: url("../images/AMdesign.jpg");
+  background-repeat: no-repeat;
+  background-size: 95%;
+  display: block;
+  background-position: right;
+  margin-top: 8px;
+  height: 100px;
+  padding: 0;
 }
 
+.header-style {
+  background-color: #02fecc;
+  padding: 10px;
+  display: block;
+  height: 0.12cm;
+  margin-top: 1em;
+  padding: 0;
+}
+
+#nav-bar {
+  margin-top: 1em;
+  padding: 0;
+}
+
+/* code from w3s but modified to suit */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #02fecc;
+}
+
+li {
+  display: inline;
+  float: right;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #fff;
+}
+
+/* end of code from w3s*/
+
+#hero-image {
+  height: 800px;
+  width: 100%;
+  background: url("../images/monsterhero.jpg") no-repeat center center;
+  background-size: 60%;
+
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+  
+}
+
+#hero-outer {
+  height: 800px;
+  width: 100%;
+  overflow: hidden;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#circle {
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #02fecc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: 0 auto;
+
+.about-photo {
+  width: 50%;
+  margin: 0 auto;
+  float: right;
+}
+
+.about-info {
+  width: 50%;
+  margin: 0 auto;
+  float: left;
+}
+  
+.my-photo {
+  height: 100%;
+  border-radius: 50%;
+  background: url("../images/my-photo.jpg") no-repeat center center;
+}
+
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #02fecc;
+  color: white;
+  text-align: center;
+}
