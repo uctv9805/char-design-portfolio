@@ -11,7 +11,7 @@ header {
 .logo {
   background: url("../images/AMdesign.jpg");
   background-repeat: no-repeat;
-  background-size: 95%;
+  background-size: 100%;
   display: block;
   background-position: right;
   margin-top: 8px;
@@ -19,17 +19,8 @@ header {
   padding: 0;
 }
 
-.header-style {
-  background-color: #02fecc;
-  padding: 10px;
-  display: block;
-  height: 0.12cm;
-  margin-top: 1em;
-  padding: 0;
-}
-
 #nav-bar {
-  margin-top: 1em;
+  margin-top: 1.4em;
   padding: 0;
 }
 
@@ -40,12 +31,15 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #02fecc;
+  background-color: rgb(117, 250, 207);
 }
 
 li {
   display: inline;
   float: right;
+  margin-right: 20px;
+  padding-left: 70px;
+  font-size: large;
 }
 
 li a {
@@ -66,7 +60,7 @@ li a:hover {
   height: 800px;
   width: 100%;
   background: url("../images/monsterhero.jpg") no-repeat center center;
-  background-size: 60%;
+  background-size: 70%;
 
   animation-name: hero-zoom;
   animation-duration: 5s;
@@ -90,30 +84,29 @@ li a:hover {
 }
 
 .text-overlay {
-  font-size: 150%;
+  font-size: 140%;
   font-weight: 500;
   color: #000;
-  background-color: #02fecc;
-  height: 270px;
-  width:270px;
-  padding-top: 70px;
-  padding-left: 40px;
-  top: 60px;
-  left: 100px;
-  position: absolute;
-  border-radius: 50%;
+  background-color: rgb(117, 250, 207);
+  height: 175px;
+  width:175px;
+  padding-top: 30px;
+  padding-left: 20px;
+  top: 90px;
+  left: 300px;
+  position: fixed;
 }
 
 .text-overlay-2 {
   font-size: 130%;
   font-weight: 500;
   color: #000;
-  background-color: #02fecc;
-  height: 70px;
+  background-color: rgb(117, 250, 207);
+  height: 60px;
   width:850px;
-  padding-top: 15px;
+  padding-top: 10px;
   padding-left: 20px;
-  bottom: 70px;
+  bottom: 50px;
   right: 80px;
 
     position: absolute;
@@ -129,9 +122,9 @@ li a:hover {
   color: #000;
 }
 
-.container-fluid {
+.about-me {
     height: 500px;
-    background-color: #02fecc;
+    background-color: rgb(117, 250, 207);
     margin:auto;
 }
 
@@ -143,17 +136,13 @@ li a:hover {
     background-position: center center;
     background-repeat: no-repeat;
     text-align:center;
-    margin-top: 25px;
-    margin-bottom: 25px;
-
-    
 }
 
 .about-info {
   height: auto;
   width: 100%;
-  text-align: left;
   margin: auto;
+  
 }
 
 .design-icons {
@@ -167,8 +156,21 @@ li a:hover {
   position:relative;
   left: 0;
   bottom: 0;
+  height: 200px;
   width: 100%;
-  background-color: #02fecc;
-  color: white;
+  background-color: #fff;
+  color: #000;
   text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.address.am {
+  height: auto;
+  width: 100%;
+}
+
+.fa-brands {
+  text-decoration: none;
+  color: #000;
 }
