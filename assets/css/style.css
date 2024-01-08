@@ -1,9 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-
-}
-
 header {
   overflow: hidden;
 }
@@ -37,8 +34,6 @@ ul {
 li {
   display: inline;
   float: right;
-  margin-right: 20px;
-  padding-left: 70px;
   font-size: large;
 }
 
@@ -62,10 +57,11 @@ li a:hover {
   background: url("../images/monsterhero.jpg") no-repeat center center;
   background-size: 70%;
 
+  @media only screen and (min-width:767px) {
   animation-name: hero-zoom;
   animation-duration: 5s;
   animation-fill-mode: forwards;
-  
+}
 }
 
 #hero-outer {
@@ -94,7 +90,14 @@ li a:hover {
   padding-left: 20px;
   top: 90px;
   left: 300px;
-  position: fixed;
+  position: absolute;
+}
+
+@media only screen and (max-width:767px){
+  .text-overlay{
+    display:inline-block
+    
+  }
 }
 
 .text-overlay-2 {
@@ -108,8 +111,7 @@ li a:hover {
   padding-left: 20px;
   bottom: 50px;
   right: 80px;
-
-    position: absolute;
+  position: absolute;
 }
 
 .here {
@@ -145,15 +147,7 @@ li a:hover {
   
 }
 
-.design-icons {
-  height: auto;
-  width: 100%;
-  background-position: center center;
-  text-align: center;
-}
-
 .footer {
-  position:relative;
   left: 0;
   bottom: 0;
   height: 200px;
@@ -161,16 +155,23 @@ li a:hover {
   background-color: #fff;
   color: #000;
   text-align: center;
-  padding-top: 30px;
-  padding-bottom: 30px;
 }
 
-.address.am {
-  height: auto;
-  width: 100%;
+.footer-content {
+  margin-top: 30px;
+  font-weight: 300;
 }
 
 .fa-brands {
+  padding-left: 100px;
+  text-decoration: none;
+  color: rgb(117, 250, 207);
+  font-size: 60px;
+  margin-top: 60px;
+}
+
+.contact-links h6 a {
   text-decoration: none;
   color: #000;
 }
+
