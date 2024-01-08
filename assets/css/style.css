@@ -13,12 +13,10 @@ header {
   background-position: right;
   margin-top: 8px;
   height: 100px;
-  padding: 0;
 }
 
 #nav-bar {
   margin-top: 1.4em;
-  padding: 0;
 }
 
 /* code from w3s but modified to suit */
@@ -127,7 +125,6 @@ li a:hover {
 .about-me {
     height: 500px;
     background-color: rgb(117, 250, 207);
-    margin:auto;
 }
 
 .my-photo {
@@ -154,18 +151,11 @@ li a:hover {
 }
 
 .footer {
-  left: 0;
-  bottom: 0;
   height: 200px;
   width: 100%;
   background-color: rgb(117, 250, 207);
   color: #000;
   text-align: center;
-}
-
-.footer-content {
-  margin-top: 30px;
-  font-weight: 300;
 }
 
 .fa-brands {
