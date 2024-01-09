@@ -128,13 +128,14 @@ li a:hover {
 }
 
 .my-photo {
-    height: 500px;
+    height: 400px;
     width: 100%;
     background-image: url("../images/my-photo.jpg");
     background-size: 45%;
     background-position: center center;
     background-repeat: no-repeat;
     text-align:center;
+    margin-top: 50px;
 }
 
 .about-info {
