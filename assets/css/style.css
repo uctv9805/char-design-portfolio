@@ -151,6 +151,18 @@ li a:hover {
   background-color: #fff;
 }
 
+.gallery {
+  clear: both;
+  line-height: 0;
+  column-count: 4;
+  column-gap: 10px;
+}
+
+.gallery img{
+  margin: 5px;
+  width: 100%;
+}
+
 .footer {
   height: 200px;
   width: 100%;
