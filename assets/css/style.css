@@ -139,23 +139,70 @@ li a:hover {
     background-size: 45%;
     background-position: center center;
     background-repeat: no-repeat;
-    text-align:center;
     margin-top: 50px;
+    margin-left: 150px;
 }
 
 .about-info {
+  font-size: 20px;
   height: auto;
   width: 100%;
-  margin: auto;
+  margin-top: 130px;
+  margin-right:  150px;
   
 }
 
-.edu-work {
-  height: 500px;
-  width: 100%;
-  background-color: #fff;
+.timeline-item {
+  padding: 4em 2em 0em 2em;
+  position: relative;
+  color: #000;
+  border-left: 1px solid;
 }
 
+.timeline-item p {
+  padding: 0;
+  margin: 0;
+}
+
+.timeline-item:before {
+  content: attr(data-dates);
+  position: absolute;
+  left: 2.5em;
+  top: 3em;
+  display: block;
+  font-size: 0.8em;
+  padding: 0;
+  margin: 0;
+}
+
+.timeline-item:after {
+  width: 12px;
+  height: 12px;
+  display: block;
+  top: 2.4em;
+  position: absolute;
+  left: -6px;
+  border-radius: 12px;
+  content: '';
+  background-color: #000;
+}
+
+.home-hr {
+  width: 80%;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  border: 2px solid #75FACF;
+  }
+
+  .client {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+.client p {
+  font-size: large;
+}
 /*--------------------------------------Gallery*/
 
 .g-title {
