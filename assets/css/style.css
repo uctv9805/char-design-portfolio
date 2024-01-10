@@ -168,6 +168,14 @@ li a:hover {
   width:100%;
 }
 
+.gallery-hr {
+width: 80%;
+display: block;
+margin: auto;
+margin-top: 30px;
+border: 2px solid #75FACF;
+}
+
 .speed-drawing {
   height: 315px;
   width: 560px;
