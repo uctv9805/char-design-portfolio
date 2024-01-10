@@ -151,6 +151,11 @@ li a:hover {
   background-color: #fff;
 }
 
+.g-title {
+  padding: 30px;
+  font-weight: 300;
+}
+
 .gallery {
   clear: both;
   line-height: 0;
@@ -160,13 +165,16 @@ li a:hover {
 
 .gallery img {
   margin: 5px;
-  width: 100%;
+  width:100%;
 }
 
 .speed-drawing {
-  height: 240px;
-  width: 320px;
-}
+  height: 315px;
+  width: 560px;
+  margin:0 auto;
+  display:block;
+  padding: 30px;
+  }
 
 .footer {
   height: 200px;
