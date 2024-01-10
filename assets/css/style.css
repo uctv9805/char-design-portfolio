@@ -158,9 +158,14 @@ li a:hover {
   column-gap: 10px;
 }
 
-.gallery img{
+.gallery img {
   margin: 5px;
   width: 100%;
+}
+
+.speed-drawing {
+  height: 240px;
+  width: 320px;
 }
 
 .footer {
