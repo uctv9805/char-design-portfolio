@@ -117,11 +117,6 @@ li a:hover {
   bottom: 50px;
   right: 80px;
   position: absolute;
-
-  @media (min-width:767px) {
-    .text-overlay {
-      display: none;
-    }
 }
 
 .here {
