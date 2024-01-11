@@ -75,7 +75,7 @@ li a:hover {
   animation-fill-mode: forwards;
 }
 
-@media (max-width: 575.98px) {
+@media (max-width: 576px) {
   height: 400px;
   width: 100%;
   
@@ -350,4 +350,44 @@ button:hover {
 .spacing {
   margin-top: 35px;
   margin-bottom: 25px;
+}
+
+@media (max-width: 576px) {
+
+  .my-photo {
+    background-size: 25%;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+  }
+  
+  .about-me {
+    display: flex;
+		flex-direction: column;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: small;
+    padding-top: 10px;
+  }
+
+  .about-info {
+    margin: 0;
+    height: fit-content;
+    padding-top: 10px;
+  }
+
+  .tool-ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .client {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .footer {
+    padding-bottom: 20px;
+  }
 }
