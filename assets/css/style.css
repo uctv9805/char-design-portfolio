@@ -24,7 +24,7 @@ header {
 
 /* code from w3s but modified to suit */
 
-ul {
+.nav-ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -32,7 +32,7 @@ ul {
   background-color: rgb(117, 250, 207);
 }
 
-li {
+.nav-ul li {
   display: inline;
   float: right;
   font-size: large;
@@ -155,6 +155,10 @@ li a:hover {
   
 }
 
+.history-space {
+  margin-top: 30px;
+}
+
 .timeline-item {
   padding: 4em 2em 0em 2em;
   position: relative;
@@ -190,11 +194,26 @@ li a:hover {
   background-color: #000;
 }
 
+.profs {
+  margin-top: 20px;
+  padding: 50px;
+}
+
+.tool-ul li {
+  font-size:30px;
+  padding: 30px;
+}
+
+.prof-icon {
+  color: #75FACF;
+  padding-left: 20px;
+}
+
 .home-hr {
   width: 80%;
   display: block;
   margin: auto;
-  margin-top: 30px;
+  margin-top: 50px;
   border: 2px solid #75FACF;
   }
 
