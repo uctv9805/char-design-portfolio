@@ -57,22 +57,23 @@ li a:hover {
 /*--------------------------------------Home*/
 
 #hero-image {
-  height: 800px;
+  height: 1100px;
   width: 100%;
   background: url("../images/monsterhero.jpg") no-repeat center center;
   background-size: 70%;
+
 
   @media only screen and (min-width:767px) {
   animation-name: hero-zoom;
   animation-duration: 5s;
   animation-fill-mode: forwards;
 }
-}
 
-#hero-outer {
-  height: 800px;
+@media (max-width: 575.98px) {
+  height: 400px;
   width: 100%;
-  overflow: hidden;
+  
+}
 }
 
 @keyframes hero-zoom {
@@ -98,10 +99,9 @@ li a:hover {
   position: absolute;
 }
 
-@media only screen and (max-width:767px){
-  .text-overlay{
-    display:inline-block
-    
+@media (max-width:767px) {
+  .text-overlay {
+    display: none;
   }
 }
 
@@ -117,6 +117,11 @@ li a:hover {
   bottom: 50px;
   right: 80px;
   position: absolute;
+
+  @media (min-width:767px) {
+    .text-overlay {
+      display: none;
+    }
 }
 
 .here {
