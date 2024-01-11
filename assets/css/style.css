@@ -87,9 +87,9 @@ li a:hover {
   font-weight: 500;
   color: #000;
   background-color: rgb(117, 250, 207);
-  height: 175px;
+  height: 185px;
   width:175px;
-  padding-top: 30px;
+  padding-top: 25px;
   padding-left: 20px;
   top: 90px;
   left: 300px;
@@ -119,8 +119,11 @@ li a:hover {
 
 .here {
   text-decoration: none;
-  color: #fff;
-  font-weight: 500;
+  color: #000;
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 5px;
+
 }
 
 .here:hover {
