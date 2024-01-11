@@ -1,10 +1,9 @@
-html,body
-{
+html,body {
     width: 100%;
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }
 
 body {
@@ -126,6 +125,12 @@ li a:hover {
   position: absolute;
 }
 
+@media (max-width:767px) {
+  .text-overlay-2 {
+    display: none;
+  }
+}
+
 .here {
   text-decoration: none;
   color: #000;
@@ -154,8 +159,7 @@ li a:hover {
     background-position: center center;
     background-repeat: no-repeat;
     margin-top: 50px;
-    margin-left: 80px;
-    
+    margin-left: 80px;  
 }
 
 .about-info {
@@ -227,12 +231,12 @@ li a:hover {
   margin: auto;
   margin-top: 50px;
   border: 2px solid #75FACF;
-  }
+}
 
   .client {
     margin-top: 20px;
     margin-bottom: 30px;
-  }
+}
 
 .client p {
   font-size: large;
@@ -274,7 +278,7 @@ border: 2px solid #75FACF;
   margin:0 auto;
   display:block;
   padding: 30px;
-  }
+}
 
 .download-header {
   font-size: 40px;
@@ -319,6 +323,11 @@ button:hover {
 
 /*--------------------------------------Footer*/
 
+.space {
+  height: 200px;
+  width: 100%;
+}
+
 .footer {
   height: auto;
   width: 100%;
@@ -346,4 +355,3 @@ button:hover {
   margin-top: 35px;
   margin-bottom: 25px;
 }
-
