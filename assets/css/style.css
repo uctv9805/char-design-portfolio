@@ -1,5 +1,7 @@
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 /*--------------------------------------Header*/
@@ -308,7 +310,7 @@ button:hover {
 /*--------------------------------------Footer*/
 
 .footer {
-  margin: 0 auto;
+  height: auto;
   width: 100%;
   background-color: rgb(117, 250, 207);
   color: #000;
