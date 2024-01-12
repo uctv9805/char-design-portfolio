@@ -393,5 +393,6 @@ button:hover {
 
   .fa-brands {
     font-size: 40px;
+    padding: 0;
   }
 }
