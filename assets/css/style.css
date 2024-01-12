@@ -376,10 +376,24 @@ button:hover {
     padding-top: 10px;
   }
 
+  .profs {
+    text-align: center;
+  }
+
+.ul-tool {
+  margin: 0;
+  padding: 0;
+}
+
   .tool-ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+  }
+
+  .fa-solid {
+    display: block;
+    padding: 0;
   }
 
   .client {
