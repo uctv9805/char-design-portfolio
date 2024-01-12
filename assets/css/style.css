@@ -392,7 +392,15 @@ button:hover {
   }
 
   .fa-brands {
-    font-size: 40px;
-    padding: 0;
+    font-size: 30px;
+  }
+
+  .gallery {
+    column-count: 2;
+  }
+
+  .speed-drawing {
+    height: auto;
+    width:auto;
   }
 }
