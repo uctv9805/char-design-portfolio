@@ -65,16 +65,10 @@ li a:hover {
   background-size: 70%;
 
 
-  @media only screen and (min-width:767px) {
+  @media only screen and (min-width:992px) {
   animation-name: hero-zoom;
   animation-duration: 5s;
   animation-fill-mode: forwards;
-}
-
-@media (max-width: 576px) {
-  height: 400px;
-  width: 100%;
-  
 }
 }
 
@@ -100,7 +94,7 @@ li a:hover {
   position: absolute;
 }
 
-@media (max-width:767px) {
+@media (max-width:768px) {
   .text-overlay {
     display: none;
   }
@@ -454,6 +448,9 @@ button:hover {
   .nav-ul li {
     margin: 0;
   }
+  .text-overlay {
+      display: none;
+    }
 
   .my-photo {
     background-size: 25%;
@@ -477,10 +474,6 @@ button:hover {
     margin: 0;
     margin-top: 10px;
   }
-
-  .gallery {
-    column-count: ;
-  }
 }
 
 @media (max-width: 992px) {
@@ -491,6 +484,10 @@ button:hover {
     padding: 0;
     font-size: 15px;
   }
+
+  .text-overlay-2 {
+    display: none;
+    }
 
   .my-photo {
     background-size: 25%;
