@@ -30,8 +30,6 @@ header {
   margin-top: 1.4em;
 }
 
-/* code from w3s but modified to suit */
-
 .nav-ul {
   list-style-type: none;
   margin: 0;
@@ -57,8 +55,6 @@ li a {
 li a:hover {
   background-color: #fff;
 }
-
-/* end of code from w3s*/
 
 /*--------------------------------------Home*/
 
@@ -370,7 +366,11 @@ button:hover {
   margin-bottom: 25px;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
+
+  .logo {
+    text-align: center;
+  }
 
   .my-photo {
     background-size: 25%;
@@ -396,11 +396,17 @@ button:hover {
 
   .profs {
     text-align: center;
+    margin-top: 30px;
+  
   }
 
-.ul-tool {
-  margin: 0;
-  padding: 0;
+  .nav-ul li {
+    margin-right: 75px;
+  }
+
+  .ul-tool {
+    margin: 0;
+    padding: 0;
 }
 
   .tool-ul {
