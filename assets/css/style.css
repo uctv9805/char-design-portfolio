@@ -364,6 +364,12 @@ button:hover {
 
 @media (max-width: 320px) {
 
+  .speed-drawing {
+    height: auto;
+    width: auto;
+    margin:0 auto;
+  }
+
   #hero-image {
     height: 300px
   }
