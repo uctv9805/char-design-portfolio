@@ -170,8 +170,9 @@ li a:hover {
   
 }
 
-.history-space {
-  margin-top: 30px;
+.eduhis{
+  padding-left: 30px;
+  padding-top: 40px;
 }
 
 .timeline-item {
@@ -209,9 +210,12 @@ li a:hover {
   background-color: #000;
 }
 
+.proftitle {
+  padding-bottom: 30px;
+}
+
 .profs {
-  margin-top: 20px;
-  padding: 50px;
+  padding-top: 30px;
 }
 
 .tool-ul li {
@@ -320,6 +324,20 @@ button[type="submit"] {
 
 button:hover {
   background-color: #fff;
+}
+
+/*--------------------------------------Contactresponse*/
+
+.contact-response {
+ background: url("../images/monsterimage.jpg") no-repeat center center;
+ background-size: 50%;
+ height: 600px;
+ width: 100%;
+}
+
+.response-text {
+  text-align: center;
+  padding-bottom: 50px;
 }
 
 /*--------------------------------------Footer*/
