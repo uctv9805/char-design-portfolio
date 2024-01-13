@@ -362,7 +362,33 @@ button:hover {
 
 /*------------------------------Media Queries*/
 
+@media (max-width: 320px) {
+
+  #hero-image {
+    height: 300px
+  }
+
+  .my-photo {
+    height: 200px;
+  }
+
+  .about-me {
+    height: 200px;
+  }
+
+  .about-info {
+    margin: 0;
+    padding: 0;
+    display: none;
+
+  }
+}
+
 @media (max-width: 576px) {
+
+  #hero-image {
+    height: 300px
+  }
 
   .nav-ul li {
     margin: 0;
@@ -444,6 +470,10 @@ button:hover {
 }
 
 @media (max-width: 768px) {
+
+  #hero-image {
+    height: 400px
+  }
 
   .nav-ul li {
     margin: 0;
