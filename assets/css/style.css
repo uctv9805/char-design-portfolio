@@ -17,7 +17,7 @@ header {
 }
 
 .logo {
-  background: url("../images/AMdesign.jpg");
+  background: url("../images/amdesign.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   display: block;
@@ -153,7 +153,7 @@ li a:hover {
 .my-photo {
     height: 400px;
     width: 100%;
-    background-image: url("../images/my-photo.jpg");
+    background-image: url("../images/myphoto.jpg");
     background-size: 45%;
     background-position: center center;
     background-repeat: no-repeat;
