@@ -64,12 +64,6 @@ li a:hover {
   width: 100%;
   background: url("../images/monsterhero.jpg") no-repeat center center;
   background-size: 70%;
-
-  @media only screen and (min-width:992px) {
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-  }
 }
 
 @keyframes hero-zoom {
@@ -516,6 +510,15 @@ button:hover {
   .about-info {
     margin: 0;
     margin-top: 10px;
+  }
+}
+
+@media (min-width: 992px) {
+
+  #hero-image {
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
   }
 }
 
