@@ -207,10 +207,15 @@ li a:hover {
 }
 
 .profs {
+  display: inline-block;
   padding-top: 30px;
 }
 
-.tool-ul li {
+.list-tool {
+  display: inline;
+}
+
+.tool-list li {
   font-size: 30px;
   padding: 30px;
 }
@@ -439,12 +444,12 @@ button:hover {
     margin-right: 75px;
   }
 
-  .ul-tool {
+  .list-tool {
     margin: 0;
     padding: 0;
   }
 
-  .tool-ul {
+  .tool-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
