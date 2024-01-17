@@ -49,3 +49,4 @@ When testing using the official jigsaw validator using the URI some errors were 
 
 ### Lighthouse score
 
+https://imageresizer.com/
