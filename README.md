@@ -173,20 +173,55 @@ A page was made so that if the user filled out the contact page, they would get 
 
 # Testing
 
+I have created a seperate document for the testing section with everything covered - [TESTING.md](TESTING.md)
 
-## Validator Testing
+# Deployment
 
-### HTML
-No errors were returned on any of the pages when passing through the official W3C validator
-- W3C Validator for [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Findex.html)
-- W3C Validator for [Gallery](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Fgallery.html)
-- W3C Validator for [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Fcontact.html)
-- W3C Validator for [Contact Action](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Fcontactaction.html)
+I deployed the page on GitHub pages using the following steps:
 
-### CSS
-When testing using the official jigsaw validator using the URI some errors were raised coming directly from the bootstrap URI, not related to any of my code - I proved this by adding my CSS and ran the validator by direct input and no errros were reported in my code
+1. Within the project's repository, navigate to the Settings tab.
+2. In the menu on the left-hand side, select the Pages tab.
+3. In the Source section, select Main branch from the drop-down menu then click Save.
+4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 
-- Jigsaw Validator for [style.css](http://jigsaw.w3.org/css-validator/validator$link)
+    Click here to be directed to the live site [Ash Marshall Design](https://uctv9805.github.io/char-design-portfolio/)
+
+# Credits
+
+Here is a list of people and resources I turned to throughout the project for support, without which I would not have succeeded.
+
+### General
+
+- Code Institue - My design took inspiration from a number of code-along projects that have been taught on the course so far, however I have adapted and created my own code so as not to simply copy and paste the ideas.
+
+- W3Schools has been invaluable in helping me with ideas for code and problem solving issues when they arose. 
+
+- Bootstrap - whilst I tried to write my own CSS purely to practice and learn myself, bootstrap was key in working out the layout of the site to a degree as well as some other snippets here and there which have improved my design. 
+
+### People
+
+- I would like to thank my mentor David Bowers - he offered valuable input, expert feedback and helped me solve all sorts of problems and directed me to some excellent resources to help me to produce this project. 
+
+### Content
+
+- All content for the site was written by myself.
+
+- The social media icons within the footer and the icons within the proficiencies section were taken from [Font Awesome](https://fontawesome.com/)
+
+- Font imported from [Google Fonts](https://fonts.google.com/)
+
+### Media
+
+As the actual aforementioned artist, I created all of the media used throughout the website myself.
+
+- All illustrations were drawn by me, Ashley Marshall - This includes, Hero image, gallery imagery and pictures within contact pages.
+
+- The youtube video content was drawn by me, Ashley Marshall - I also filmed and edited the video too.
+
+- The logo is my own original design - A little easter egg is the pencil design in the logo is also the initials of the site A M D.
+
+
+
 
 
 
