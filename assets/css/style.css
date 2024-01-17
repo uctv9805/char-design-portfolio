@@ -477,7 +477,7 @@ button:hover {
   }
 
   .fa-brands {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .gallery {
@@ -490,7 +490,7 @@ button:hover {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 
   #hero-image {
     height: 400px
@@ -526,6 +526,11 @@ button:hover {
     margin: 0;
     margin-top: 10px;
   }
+
+  .fa-brands {
+    font-size: 30px;
+    margin: 5px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -546,8 +551,16 @@ button:hover {
     font-size: 15px;
   }
 
+  .text-overlay {
+    display: none;
+  }
+
   .text-overlay-2 {
     display: none;
+  }
+
+  #hero-image {
+    height: 500px
   }
 
   .my-photo {
@@ -576,7 +589,6 @@ button:hover {
   .fa-brands {
     font-size: 30px;
     padding: 0;
-    padding: 10px;
   }
 }
 
@@ -603,5 +615,19 @@ button:hover {
   .about-info {
     margin: 0;
     margin-top: 10px;
+  }
+
+  .fa-brands {
+    font-size: 30px;
+    padding: 5px;
+    margin: 0;
+    
+  }
+}
+
+@media (min-width: 1200px) {
+  .fa-brands {
+    font-size: 50px;
+    padding: 10px;
   }
 }
