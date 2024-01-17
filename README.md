@@ -63,9 +63,53 @@ The footer section consists of 3 sections, artists address, socail media links, 
 
 ![footer screenshot](assets/docs/footer.png)
 
-## Gallery
+## Gallery Page
 
-The gallery page shows the user a selection of the artists work so they can get a real feel of what they can acheive.
+The gallery page shows the user a selection of the artists work so they can get a real feel of what they can acheive. There is also an embedded youtube video of a speed-drawing allowing the artist to showcase their work in a different way. Below this there is an opportunity to download the artists portfolio in full.
+
+- The gallery is set out in a nice tile style view, it is easy to view and makes the gallery tidy. It is valuable to the user as they can identify the type of creative style of work the artist can offer.
+
+- The youtube video is valuable to the user as it shows the artist at work, proving their skills in an entertaining way.
+
+- Adding the portfolio download at the bottom of the gallery means the user has had chance to view the work of the artist, become interested in their work and then as the opportunity arises to download the portfolio the work on show should have generated enough interest that they are willing to hit the download button.
+
+![gallery view of illustrations](assets/docs/gallery.png)
+
+
+
+![image of video player and download link](assets/docs/videoanddownload.png)
+
+### Contact Page
+
+This allows the user to contact the artist directly. After viewing their work througout the site the user can now get in touch to arrange to work with the artisit.
+
+- The user is asked to provide their name and email address - the form will prompt the user if any of the information is filled out incorrectly or not at all.
+
+- There is a section to provide a description of the work request or commission details so the user can effectively communicate their request.
+
+- The submit button is descriptive and fits the color theme of the website so the user can easily identify where to press to submit their request.
+
+- The image was used to help communicate they are contacting the artist and to help keep the theme of the website centered around the artwork.
+
+![screenshot image of the contact page](assets/docs/contact.png)
+
+### Contact Response
+
+A page was made so that if the user filled out the contact page, they would get a response to show them that the request was filled out successfully and they would be contacted by the artist in due course.
+
+- It offers a confirmation of success and a response time so the user knows when to expect a response.
+
+- There is an illustration inkeeping with the theme of the website.
+
+![screenshot of contactaction page - monster illustration](assets/docs/contactaction.png)
+
+## Features Left to Implement
+
+### Projects Section
+- I think in the future a good section to add would be projects. Rather than a gallery page that showcases all the art it would include more details about a specific project - multiple images and a description of the work and ideas behind the project. 
+- It could be an extra page on the site and have information on multiple projects - gives the user and further look into the artists process and further entices them to get in touch.
+
+# Testing
 
 
 ## Validator Testing
