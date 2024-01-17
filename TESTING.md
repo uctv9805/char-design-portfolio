@@ -7,7 +7,7 @@
 - I published the page on GitHub pages and then tested the website on different sized devices as well as different brand devices (android/apple/amazon/desktop) 
  to check responsiveness. 
 
-- Let freinds and family visit and use the website and report back any unusual findings or problems. 
+- Let friends and family visit and use the website and report back any unusual findings or problems. 
 
 - I used Chrome Developer tools to simulate different screen sizes in order to test responsiveness.
 
@@ -43,13 +43,13 @@ No errors were returned on any of the pages when passing through the official W3
 - W3C Validator for [Contact Action](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Fcontactaction.html)
 
 ### CSS
-When testing using the official jigsaw validator using the URI some errors were raised coming directly from the bootstrap URI, not related to any of my code - I proved this by adding my CSS and ran the validator by direct input and no errros were reported in my code
+When testing using the official jigsaw validator using the URI some errors were raised coming directly from the bootstrap URI, not related to any of my code - I proved this by adding my CSS and ran the validator by direct input and no errors were reported in my code
 
-- Jigsaw Validator for [style.css](http://jigsaw.w3.org/css-validator/validator$link)
+- Jigsaw Validator for CSS ![style.css validation](assets/docs/screenshots/jigsawvalidation.png)
 
 ## Lighthouse score
 
-### Desktop Verison
+### Desktop Version
 
 - index.html:
 
@@ -67,8 +67,8 @@ When testing using the official jigsaw validator using the URI some errors were 
 
 ![index lighthouse score](assets/docs/screenshots/contactactiondt.png)
 
-### Issue with performace and solution
-I was having trouble getting the performace above 90, especially on the gallery page but by reducing the image sizes this resulted in the scores being above 90 on multiple test. To resize the images easily i used [imageresizer](https://imageresizer.com/).
+### Issue with performance and the solution
+I was having trouble getting the performance above 90, especially on the gallery page but by reducing the image sizes this resulted in the scores being above 90 on multiple tests. To resize the images easily I used [imageresizer](https://imageresizer.com/).
 
 ## Accessibility
 

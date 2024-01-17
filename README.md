@@ -13,12 +13,12 @@ This site is targeted towards creative professionals looking to collaborate or m
 
 - Creative industry professionals looking for a freelance artist to collaborate with.
 - Any professional who requires a freelance artist to provide creative work within their own industry.
-- General public who are looking to commission a peice of work by a creative professional.
+- General public who are looking to commission a piece of work by a creative professional.
 - Followers of the artist who are looking for a piece of work creating for their own collection.
 
 ### User Stories:
 
-- As a user, As a user, I want to be able to navigate the page easily and be able to find what I am looking for.
+- As a user, I want to be able to navigate the page easily and be able to find what I am looking for.
 - As a user, I want to be able to see the artists work so I know what I can expect if I choose to collaborate with them.
 - As a user, I want to find out more about the artist to see if they are the right candidate for my commission.
 - As a user, I want to fill out the contact form in order to contact the artist.
@@ -26,12 +26,12 @@ This site is targeted towards creative professionals looking to collaborate or m
 ### Site Aims:
 
 - To give the user an introduction to the artist and offers information on who they are and what they have done.
-- Showcase some of the artists work to get them interested in what they can provide.
+- Showcase some of the artists work to get the user interested in what they can provide.
 - To get the user to download the artists portfolio.
 - Give the user links to the artists social media sites to offer further ways of interacting with the artist. 
 - To entice the user to contact the artist to work with them or commission a piece of work.
 
-### How this is acheived:
+### How this is achieved:
 
 - The homepage offers an about me section, education & history and proficiencies sections and client testimonials. This introduces the user to the artist and gives them confidence they have good experience in their field.
 
@@ -63,7 +63,7 @@ The changes made include:
 
 ## Color profile
 
-I wanted to keep the overall look of the website very clean, to make sure the art was the main talking point throughout, the art offered a fantastic color bursts throughout the site so it was important that the backgrounds were white so as not to draw attention away from the illustrations. That being said I needed to use a color that was subtle but offered options to break up sections and I chose the color from the artists logo so that the whole site was inkeeping with this design. The text was a combination of black or white purely for clarity so any body of text was easy to read for the user. 
+I wanted to keep the overall look of the website very clean, to make sure the art was the main talking point throughout, the art offered fantastic color bursts throughout the site so it was important that the backgrounds were white so as not to draw attention away from the illustrations. That being said I needed to use a color that was subtle but offered options to break up sections and I chose the color from the artists logo so that the whole site was in keeping with this design. The text was a combination of black or white purely for clarity so any body of text was easy to read for the user. 
 
 ![website logo](assets/docs/screenshots/logo.png) ![color profile](assets/docs/screenshots/colorprofile.png)
 
@@ -73,9 +73,9 @@ I wanted to keep the overall look of the website very clean, to make sure the ar
 
 ### Navigation Bar
 
-- The navigation bar is featured across all pages of the website allowing easy navigation around the site. It is fully responsive icluding links within the logo and Home button for the Homepage, and links to the Gallery page and Contact page.
+- The navigation bar is featured across all pages of the website allowing easy navigation around the site. It is fully responsive including links within the logo and Home button for the Homepage, and links to the Gallery page and Contact page.
 
-- The navigation section allows the user to navigate the website completey and easily with links to all sections and works across all devices. It eliminates the need for the user to use the back button on the browser to revisit the previous page. 
+- The navigation section allows the user to navigate the website completely and easily with links to all sections and works across all devices. It eliminates the need for the user to use the back button on the browser to revisit the previous page. 
 
 ![navigation bar](/assets/docs/screenshots/navigationbar.png)
 
@@ -95,7 +95,7 @@ I wanted to keep the overall look of the website very clean, to make sure the ar
 
 - There is a paragraph with a brief overview of the artist, what they like to do and where they are based, to give the user a better understanding of the artist and their background. 
 
-- The section features a colored background to seperate it from the landing page, to highlight it as a section and to make it stand out and catch the attention of the user encouraging them to read it. 
+- The section features a colored background to separate it from the landing page, to highlight it as a section and to make it stand out and catch the attention of the user encouraging them to read it. 
 
 ![photo/illustration of a man, text explaining who it is](assets/docs/screenshots/aboutme.png)
 
@@ -115,11 +115,11 @@ I wanted to keep the overall look of the website very clean, to make sure the ar
 
 ## The Footer
 
-The footer section consists of 3 sections, artists address, socail media links, and a link to the contact page.
+The footer section consists of 3 sections, artists address, social media links, and a link to the contact page.
 
 - The address offers the user confidence that they are dealing with a professional, they have a headquarters and can be contacted.
 
-- The social media icons are all links to the corresponding social media sights of the artist (*the twitter one just opens twitter in a new tab for now as the artist does not have a twitter acount, this could be altered later when the account is set up*). They all open in new tabs to allow the user to stay on the website for easier navigation. It offers the user another way to stay connected to the artist and alternative methods of contact as well.
+- The social media icons are all links to the corresponding social media sights of the artist (*the twitter one just opens twitter in a new tab for now as the artist does not have a twitter account, this could be altered later when the account is set up*). They all open in new tabs to allow the user to stay on the website for easier navigation. It offers the user another way to stay connected to the artist and alternative methods of contact as well.
 
 - Contact section offers a link to the contact page so that no matter what page the user is on, once they are ready, there is an easy alternate navigation to contact the artist. It is underlined so the user is aware it is a link and has a hover effect so they know it is clickable. 
 
@@ -127,7 +127,7 @@ The footer section consists of 3 sections, artists address, socail media links, 
 
 ## Gallery Page
 
-The gallery page shows the user a selection of the artists work so they can get a real feel of what they can acheive. There is also an embedded youtube video of a speed-drawing allowing the artist to showcase their work in a different way. Below this there is an opportunity to download the artists portfolio in full.
+The gallery page shows the user a selection of the artists work so they can get a real feel of what they can achieve. There is also an embedded youtube video of a speed-drawing allowing the artist to showcase their work in a different way. Below this there is an opportunity to download the artists portfolio in full.
 
 - The gallery is set out in a nice tile style view, it is easy to view and makes the gallery tidy. It is valuable to the user as they can identify the type of creative style of work the artist can offer.
 
@@ -143,7 +143,7 @@ The gallery page shows the user a selection of the artists work so they can get 
 
 ### Contact Page
 
-This allows the user to contact the artist directly. After viewing their work througout the site the user can now get in touch to arrange to work with the artisit.
+This allows the user to contact the artist directly. After viewing their work throughout the site the user can now get in touch to arrange to work with the artist.
 
 - The user is asked to provide their name and email address - the form will prompt the user if any of the information is filled out incorrectly or not at all.
 
@@ -161,7 +161,7 @@ A page was made so that if the user filled out the contact page, they would get 
 
 - It offers a confirmation of success and a response time so the user knows when to expect a response.
 
-- There is an illustration inkeeping with the theme of the website.
+- There is an illustration in keeping with the theme of the website.
 
 ![screenshot of contactaction page - monster illustration](assets/docs/screenshots/contactaction.png)
 
@@ -173,7 +173,7 @@ A page was made so that if the user filled out the contact page, they would get 
 
 # Testing
 
-I have created a seperate document for the testing section with everything covered - [TESTING.md](TESTING.md)
+I have created a separate document for the testing section with everything covered - [TESTING.md](TESTING.md)
 
 # Deployment
 
@@ -192,7 +192,7 @@ Here is a list of people and resources I turned to throughout the project for su
 
 ### General
 
-- Code Institue - My design took inspiration from a number of code-along projects that have been taught on the course so far, however I have adapted and created my own code so as not to simply copy and paste the ideas.
+- Code Institute - My design took inspiration from a number of code-along projects that have been taught on the course so far, however I have adapted and created my own code so as not to simply copy and paste the ideas.
 
 - W3Schools has been invaluable in helping me with ideas for code and problem solving issues when they arose. 
 
