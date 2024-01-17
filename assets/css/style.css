@@ -362,8 +362,11 @@ button:hover {
 
 .contact-links h6 a {
   margin: 0 auto;
-  text-decoration: none;
   color: #000;
+}
+
+.contact-links h6 a:hover {
+  color: #fff;
 }
 
 .spacing {

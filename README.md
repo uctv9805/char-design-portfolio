@@ -43,7 +43,25 @@ This site is targeted towards creative professionals looking to collaborate or m
 
 - The proficiencies section shows the user what programs the artist is most comfortable in using. They are programs used in industry so again this shows the user that the artist can handle most tasks required in this industry.
 
+![education and history section](assets/docs/educationandhistory.png)
 
+### Client Testimonial
+
+- Here are some positive words from a previous client, the user will be interested to hear that the artist has received positive feedback from a previous client, this again offers the user confidence that the artist will provide a good service.
+
+![client testimonial](assets/docs/clienttestimonial.png)
+
+## The Footer
+
+The footer section consists of 3 sections, artists address, socail media links, and a link to the contact page.
+
+- The address offers the user confidence that they are dealing with a professional, they have a headquarters and can be contacted.
+
+- The social media icons are all links to the corresponding social media sights of the artist (*the twitter one just opens twitter in a new tab for now as the artist does not have a twitter acount, this could be altered later when the account is set up*). They all open in new tabs to allow the user to stay on the website for easier navigation. It offers the user another way to stay connected to the artist and alternative methods of contact as well.
+
+- Contact section offers a link to the contact page so that no matter what page the user is on, once they are ready there is an easy alternate navigation to contact the artist.
+
+![footer screenshot](assets/docs/)
 
 ## Validator Testing
 
