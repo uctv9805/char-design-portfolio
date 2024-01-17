@@ -31,6 +31,7 @@
     - Solution:
         - I decided that the animation lost it's impact on smaller screen sizes anyway so decided to remove this feature from smaller screen sizes so that just a fixed image was present and it no longer covered any other elements. 
 
+# Post Development Testing
 
 ## Validator Testing
 
@@ -45,3 +46,6 @@ No errors were returned on any of the pages when passing through the official W3
 When testing using the official jigsaw validator using the URI some errors were raised coming directly from the bootstrap URI, not related to any of my code - I proved this by adding my CSS and ran the validator by direct input and no errros were reported in my code
 
 - Jigsaw Validator for [style.css](http://jigsaw.w3.org/css-validator/validator$link)
+
+### Lighthouse score
+
