@@ -39,6 +39,12 @@ This site is targeted towards creative professionals looking to collaborate or m
 
 ### Education & History *and* Proficiencies
 
+- The Education & History section shows the user where the artist was educated and when, and how long they have been working in this industry. This offers the user confidence in working with the artist due to their experience leading to them wanting to use the artist for their project.
+
+- The proficiencies section shows the user what programs the artist is most comfortable in using. They are programs used in industry so again this shows the user that the artist can handle most tasks required in this industry.
+
+
+
 ## Validator Testing
 
 ### HTML
