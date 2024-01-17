@@ -59,9 +59,14 @@ The footer section consists of 3 sections, artists address, socail media links, 
 
 - The social media icons are all links to the corresponding social media sights of the artist (*the twitter one just opens twitter in a new tab for now as the artist does not have a twitter acount, this could be altered later when the account is set up*). They all open in new tabs to allow the user to stay on the website for easier navigation. It offers the user another way to stay connected to the artist and alternative methods of contact as well.
 
-- Contact section offers a link to the contact page so that no matter what page the user is on, once they are ready there is an easy alternate navigation to contact the artist.
+- Contact section offers a link to the contact page so that no matter what page the user is on, once they are ready, there is an easy alternate navigation to contact the artist. It is underlined so the user is aware it is a link and has a hover effect so they know it is clickable. 
 
-![footer screenshot](assets/docs/)
+![footer screenshot](assets/docs/footer.png)
+
+## Gallery
+
+The gallery page shows the user a selection of the artists work so they can get a real feel of what they can acheive.
+
 
 ## Validator Testing
 
