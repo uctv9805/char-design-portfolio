@@ -39,7 +39,19 @@ This site is targeted towards creative professionals looking to collaborate or m
 
 ### Education & History *and* Proficiencies
 
+## Validator Testing
 
+### HTML
+No errors were returned on any of the pages when passing through the official W3C validator
+- W3C Validator for [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Findex.html)
+- W3C Validator for [Gallery](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Fgallery.html)
+- W3C Validator for [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Fcontact.html)
+- W3C Validator for [Contact Action](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuctv9805.github.io%2Fchar-design-portfolio%2Fcontactaction.html)
+
+### CSS
+When testing using the official jigsaw validator using the URI some errors were raised coming directly from the bootstrap URI, not related to any of my code - I proved this by adding my CSS and ran the validator by direct input and no errros were reported in my code
+
+- Jigsaw Validator for [style.css](http://jigsaw.w3.org/css-validator/validator$link)
 
 
 
