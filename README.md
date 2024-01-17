@@ -5,6 +5,8 @@ Through this website you will be introduced to this artists wonderful creations,
 
 This site is targeted towards creative professionals looking to collaborate or more generally anyone looking for assistance on a creative project, on which  they may not possess the skills themselves to complete. The site will be useful to the user as it showcases the style of art the artist produces and what sort of projects they are used to working with. It finally offers the user an opportunity to contact the artist directly to discuss project ideas. 
 
+You can visit my live site [from here](https://uctv9805.github.io/char-design-portfolio/)
+
 ![shows website working across mulitple devices](/assets/docs/screenshots/responsive.jpg)
 
 ## Planning Stage
