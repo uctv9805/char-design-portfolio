@@ -293,7 +293,7 @@ li a:hover {
 /*--------------------------------------Contact*/
 
 .contact-image {
-  background: url("/assets/images/myphoto.jpg") no-repeat center center;
+  background: url("../images/myphoto.jpg") no-repeat center center;
   background-size: 15%;
   height: 400px;
   width: 100%;
