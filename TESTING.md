@@ -47,6 +47,31 @@ When testing using the official jigsaw validator using the URI some errors were 
 
 - Jigsaw Validator for [style.css](http://jigsaw.w3.org/css-validator/validator$link)
 
-### Lighthouse score
+## Lighthouse score
 
-https://imageresizer.com/
+### Desktop Verison
+
+- index.html:
+
+![index lighthouse score](assets/docs/screenshots/indexlighthousedt.png)
+
+- gallery.html:
+
+![index lighthouse score](assets/docs/screenshots/gallerylighthousedt.png)
+
+- contact.html:
+
+![index lighthouse score](assets/docs/screenshots/contactlighthousedt.png)
+
+- contactaction.html:
+
+![index lighthouse score](assets/docs/screenshots/contactactiondt.png)
+
+### Issue with performace and solution
+I was having trouble getting the performace above 90, especially on the gallery page but by reducing the image sizes this resulted in the scores being above 90 on multiple test. To resize the images easily i used [imageresizer](https://imageresizer.com/).
+
+## Accessibility
+
+As well as the accessibility score from lighthouse testing I also used [WAVE - Web accessability evaluation tool](https://wave.webaim.org/extension/) to check my pages for accessibility and no errors were found.
+
+[Back to README.md](README.md)
