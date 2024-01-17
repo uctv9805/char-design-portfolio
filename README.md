@@ -7,6 +7,46 @@ This site is targeted towards creative professionals looking to collaborate or m
 
 ![shows website working across mulitple devices](/assets/docs/responsive.jpg)
 
+## Planning Stage
+
+### Target Audiences:
+
+- Creative industry professionals looking for a freelance artist to collaborate with.
+- Any professional who requires a freelance artist to provide creative work within their own industry.
+- General public who are looking to commission a peice of work by a creative professional.
+- Followers of the artist who are looking for a piece of work creating for their own collection.
+
+### User Stories:
+
+- As a user, As a user, I want to be able to navigate the page easily and be able to find what I am looking for.
+- As a user, I want to be able to see the artists work so I know what I can expect if I choose to collaborate with them.
+- As a user, I want to find out more about the artist to see if they are the right candidate for my commission.
+- As a user, I want to fill out the contact form in order to contact the artist.
+
+### Site Aims:
+
+- To give the user an introduction to the artist and offers information on who they are and what they have done.
+- Showcase some of the artists work to get them interested in what they can provide.
+- To get the user to download the artists portfolio.
+- Give the user links to the artists social media sites to offer further ways of interacting with the artist. 
+- To entice the user to contact the artist to work with them or commission a piece of work.
+
+### How this is acheived:
+
+- The homepage offers an about me section, education & history and proficiencies sections and client testimonials. This introduces the user to the artist and gives them confidence they have good experience in their field.
+
+- The gallery page offers lots of imagery of the artists work and what they are capable of. There are also illustrations throughout the website so the user is always thinking about the art that could be provided. 
+
+- There is an initial option to download the portfolio on the homepage if the user is in a rush and would like to look later - There is also a download option at the bottom of the gallery page so once the user has seen and enjoyed the artists work it is likely they will then download to see more. 
+
+- There are links to social media sites in the footer - this is shown across all pages and the links open in new tabs for easier navigation
+
+- The whole flow of the webpage should lead the user naturally to the contact page, they have been enticed by the imagery and art and would like to work with the artist - there is also a link to the contact page on the footer which runs throughout the site for easy navigation when they are ready to contact. 
+
+## Wireframes
+
+
+
 ## Features
 
 ### Navigation Bar
