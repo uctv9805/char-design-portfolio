@@ -36,9 +36,12 @@
         <div class="form-style">
           <form method="get" action="contactaction.html">
             <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" required />
+            <label class="sr-only" for="fullname">name</label><br>
             <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required />
+            <label class="sr-only" for="emailaddress">email</label><br>
             <textarea rows="5" name="commissiondetails" id="commissiondetails" class="form-control"
               placeholder="How Can I Help?" required></textarea>
+              <label class="sr-only" for="commissiondetails">How can I Help?</label><br>
             <div class="form-row no-gutters text-center">
               <div class="col">
                 <button type="submit" class="btn btn-secondary">Contact Me</button>
